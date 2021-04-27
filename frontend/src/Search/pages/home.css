@@ -1,0 +1,33 @@
+.center {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 400px;
+    text-align: center;
+}
+
+.search-container {
+    margin-top: 1rem;
+    display: flex;
+    /* justify-content: start; */
+    /* flex-wrap: wrap; */
+    margin-left: 3.5rem;
+}
+
+.form-style {
+    width: 80%;
+    max-width: 80rem;
+}
+
+.radio {
+    margin-top: 5rem;
+    margin-left: 2.5rem;
+}
+
+.radio input {
+    margin-left: 1rem;
+}
+
+/* .align-left {
+    float: left;
+} */

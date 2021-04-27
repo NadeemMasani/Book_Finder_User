@@ -1,0 +1,27 @@
+.lib_item {
+    list-style-type: none;
+    margin-top: 1rem;
+    width: 90rem;
+}
+
+.place-item__modal-content {
+    padding: 0;
+}
+
+.place-item__modal-actions {
+    text-align: right;
+}
+
+.map-container {
+    height: 15rem;
+    width: 100%;
+}
+
+.align-left {
+    float: right;
+}
+
+.align-right {
+    float: right;
+    align-items: center;
+}

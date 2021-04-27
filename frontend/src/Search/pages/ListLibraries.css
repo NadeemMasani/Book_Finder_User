@@ -1,0 +1,16 @@
+.center {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 400px;
+    text-align: center;
+}
+
+.book-name {
+    margin-left: 2rem;
+    color: darkslategrey;
+}
+
+.container {
+    margin-top: 5rem;
+}
